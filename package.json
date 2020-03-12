@@ -39,7 +39,7 @@
   "license": "MIT",
   "dependencies": {
     "config-chain": "~1.1.5",
-    "mkdirp": "~0.5.0",
+    "mkdirp": "~1.0.0",
     "nopt": "~3.0.1"
   },
   "devDependencies": {
